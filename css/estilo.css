@@ -11,7 +11,9 @@ footer {
 	padding: 20px;
 }
 
-
+.footer3{
+	margin-top: 180px;
+}
 
 .section2{
 	background: #C0C0C0;
@@ -61,6 +63,19 @@ nav.navbar-transparente {
 
 .section4 .col-md-6 {
   text-align: center;
+
+}
+
+.section5{
+	margin-top: 100px;
+	text-align: center;
+	border-bottom: 2px solid #8bc34a;
+
+}
+
+
+.section6 .form-floating input.form-control {
+    width: 550px;
 
 }
 
