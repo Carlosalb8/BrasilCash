@@ -37,9 +37,7 @@ footer {
 	border-bottom: 1px solid black;
 }
 
-.section4{
-	padding: 100px;
-}
+
 
 nav.navbar-transparente {
 	background: black;
@@ -74,6 +72,7 @@ nav.navbar-transparente {
 
 .section4 .col-md-6 {
   text-align: center;
+  padding: 100px;
 
 }
 
@@ -86,10 +85,18 @@ nav.navbar-transparente {
 
 
 .section6 .form-floating input.form-control {
-    width: 550px;
+   width: 550px;
 
 }
 
+.section7{
+	margin: 90px;
+}
+
+
+.contrato{
+	width: 900px;
+}
 
 .nav-brand:hover {
   text-decoration: none;
